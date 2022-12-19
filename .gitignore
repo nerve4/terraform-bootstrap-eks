@@ -35,3 +35,4 @@ terraform.tfvars
 .pre-commit-config.yaml
 .tflint.hcl
 *.terraform.lock.hcl.*
+terraform.tfvars
